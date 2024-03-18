@@ -1,0 +1,15 @@
+NumeBenzinarie CapacitateRezervor[L] Profit[lei]
+Gazprom        39000                 -0.00
+Petrom         43000                 0.00
+OMV            46000                 0.00
+Rompetrol      50000                 0.00
+Petromar       50000                 0.00
+Rompetrol      50000                 0.00
+Petromar       50000                 0.00
+Octano         52000                 0.00
+Socar          55000                 0.00
+Lukoil         58000                 0.00
+RoOscar        58000                 0.00
+Lukoil         58000                 0.00
+RoOscar        58000                 0.00
+MOL            61000                 0.00
